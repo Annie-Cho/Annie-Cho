@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Node.js, TypeScript
-- ⚡ Fun fact: I love sports. I'm gonna try sport climbing soon. Who's with me? 🧗‍
 
 <!--
 **Annie-Cho/Annie-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
